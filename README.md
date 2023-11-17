@@ -1,2 +1,0 @@
-# qr-iteso
-Pumas RS
